@@ -1,0 +1,14 @@
+/example.json
+
+/CMakeCache.txt
+
+/cmake_install.cmake
+
+/CMakeFiles/*
+
+/.vscode/*
+
+
+/task-cli
+
+/Makefile
